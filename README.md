@@ -8,4 +8,4 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|001|[Two Sum](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
