@@ -8,4 +8,4 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|001|[Two Sum](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
