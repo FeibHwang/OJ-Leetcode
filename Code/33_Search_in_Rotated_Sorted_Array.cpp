@@ -8,7 +8,7 @@
 //You may assume no duplicate exists in the array.
 //***********************************************************************
 //***********************************************************************
-Similar to the binary search, but require extra step to slove the rotation problem
+//Similar to the binary search, but require extra step to slove the rotation problem
 //***********************************************************************
 
 class Solution {
