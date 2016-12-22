@@ -32,12 +32,13 @@ If no valid conversion could be performed, a zero value is returned. If the corr
 
 * P.S in order to prevent the number growing beyond the boundry, I use long long type to hold the record   
 
+* update state machine solution
 **********************************************************************************/
 
 class Solution {
 public:
 
-int myAtoi(string str) {
+int myAtoi01(string str) {
     	enum input_type { INVALID, SPACE, SIGN, NUM };
     	int sign = 1;
     	int state = 0;
@@ -122,5 +123,31 @@ int myAtoi(string str) {
     		}
     	}
     	return (int)result;
+    }
+
+
+
+
+
+    int myAtoi(string str) {
+        int state = 0;
+        int sign = 1;
+        long long result = 0;
+        for(int i = 0; i < str.size(); ++i)
+        {
+            if(str[i]==' ' && state == 0) continue;
+            else if(str[i]=='+' && state == 0) state = 1;
+            else if(str[i]=='-' && state == 0) {state = 2;sign = -1;}
+            else if(str[i] >= '0' && str[i] <= '9' && state != -1) state = 3;
+            else state = -1;
+            if(state == -1) break;
+            if(state == 3)
+            {
+                result = 10*result + (str[i]-'0');
+                if(sign == 1 && result > 2147483647) return INT_MAX;
+                if(sign == -1 && result > 2147483648) return INT_MIN;
+            }
+        }
+        return (int)result*sign;
     }
 };

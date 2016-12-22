@@ -18,12 +18,15 @@
 * Basic Idea:
 * using hash map to solve, since there is onli one solution
 * be sure that the key is the difference between the target and the number
+
+* two pointer solution:
+* sort, using two pointer to find, much much more efficient
 **********************************************************************************/
 
 class Solution {
 public:
 
-    vector<int> twoSum(vector<int>& nums, int target) {
+    vector<int> twoSum01(vector<int>& nums, int target) {
     	vector<int> result = {};
     	int target_tmp = target;
 	   	unordered_map<int,int> mp;
@@ -40,5 +43,36 @@ public:
 	    }
     return result;
     
+    }
+
+    vector<int> twoSum(vector<int>& nums, int target) {
+        vector<int> s(nums);
+        sort(s.begin(),s.end());
+        int i = 0; 
+        int j = s.size() - 1; 
+        while(i<j)
+        {
+            int sum = s[i]+s[j];
+            if(sum == target) break;
+            if(sum < target) i++;
+            if(sum > target) j--;
+        }
+        if(s[i]+s[j]==target)
+        {
+            vector<int> res= {-1,-1};
+            for(int k = 0, l = nums.size()-1; k < nums.size() && l>=0; ++k,--l)
+            {
+                if(nums[k]==s[i]&&res[0]==-1)
+                {
+                    res[0]=k;
+                }
+                if(nums[l]==s[j]&&res[1]==-1)
+                {
+                    res[1]=l;
+                }
+            }
+            return res;
+        }
+        return {};
     }
 };
