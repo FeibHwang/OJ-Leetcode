@@ -67,10 +67,18 @@ OJ-LeetCode
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./Code/38_Count_and_Say.cpp)|Easy|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/) | [C++](./Code/49_Group_Anagrams.cpp)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./Code/58_Length_of_Last_Word.cpp)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
+|65|[Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./Code/65_Valid_Number.cpp)|Hard|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/) | [C++](./Code/67_Add_Binary.cpp)|Easy|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./Code/76_Minimum_Window_Substring.cpp)|Hard|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [C++](./Code/91_Decode_Ways.cpp)|Medium|
+|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [C++](./Code/97_Interleaving_String.cpp)|Hard|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Code/125_Valid_Palindrome.cpp)|Easy|
+|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./Code/151_Reverse_Words_in_a_String.cpp)|Medium|
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./Code/165_Compare_Version_Numbers.cpp)|Easy|
+|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [C++](./Code/273_Integer_to_English_Words.cpp)|Hard|
+|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [C++](./Code/336_Palindrome_Pairs.cpp)|Hard|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./Code/344_Reverse_String.cpp)|Easy|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./Code/345_Reverse_Vowels_of_a_String.cpp)|Easy|
 
 
 
