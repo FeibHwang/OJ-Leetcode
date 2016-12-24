@@ -61,12 +61,12 @@ OJ-LeetCode
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./Code/8_String_to_Integer_(atoi).cpp)|Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./Code/12_Integer_to_Roman.cpp)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./Code/13_Roman_to_Integer.cpp)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./Code/14_Longest_Common_Prefix.cpp)|Easy|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./Code/17_Letter_Combinations_of_a_Phone_Number.cpp)|Medium|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./Code/20_Valid_Parentheses.cpp)|Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./Code/38_Count_and_Say.cpp)|Easy|
+|49|[Group Anagrams](https://leetcode.com/problems/anagrams/) | [C++](./Code/49_Group_Anagrams.cpp)|Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./Code/58_Length_of_Last_Word.cpp)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./Code/6_ZigZag_Conversion.cpp)|Easy|
