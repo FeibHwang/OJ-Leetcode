@@ -43,9 +43,54 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./Code/4_Median_of_Two_Sorted_Arrays.cpp)|Hard|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./Code/16_3Sum_Closest.cpp)|Medium|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Code/26_Remove_Duplicates_from_Sorted_Array.cpp)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./Code/27_Remove_Element.cpp)|Easy|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./Code/33_Search_in_Rotated_Sorted_Array.cpp)|Hard|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./Code/33_Search_for_a_Range.cpp)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./Code/35_Search_Insert_Position.cpp)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./Code/39_Combination_Sum.cpp)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./Code/53_Maximum_Subarray.cpp)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./Code/54_Spiral_Matrix.cpp)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](./Code/62_Unique_Paths.cpp)|Medium|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](./Code/63_Unique_Paths_II.cpp)|Medium|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](./Code/64_Minimum_Path_Sum.cpp)|Medium|
+|66|[Plus One](https://leetcode.com/problems/plus-one/) | [C++](./Code/66_Plus_One.cpp)|Easy|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./Code/73_Set_Matrix_Zeroes.cpp)|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](./Code/74_Search_a_2D_Matrix.cpp)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./Code/75_Sort_Colors.cpp)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/) | [C++](./Code/78_Subsets.cpp)|Medium|
+|90|[Subsets_II](https://leetcode.com/problems/subsets-ii/) | [C++](./Code/90_Subsets_II.cpp)|Medium|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./Code/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp)|Medium|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](./Code/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp)|Medium|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](./Code/118_Pascal's_Triangle.cpp)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](./Code/118_Pascal's_Triangle_II.cpp)|Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle/) | [C++](./Code/120_Triangle.cpp)|Medium|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./Code/121_Best_Time_to_Buy_and_Sell_Stock.cpp)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./Code/122_Best_Time_to_Buy_and_Sell_Stock_II.cpp)|Medium|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./Code/152_Maximum_Product_Subarray.cpp)|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./Code/153_Find_Minimum_in_Rotated_Sorted_Array.cpp)|Medium|
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./Code/154_Find_Minimum_in_Rotated_Sorted_Array_II.cpp)|Hard|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./Code/162_Find_Peak_Element.cpp)|Medium|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./Code/167_Two_Sum_II_Input_array_is_sorted.cpp)|Medium|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./Code/169_Majority_Element.cpp)|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./Code/189_Rotate_Array.cpp)|Easy|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./Code/209_Minimum_Size_Subarray_Sum.cpp)|Medium|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./Code/217_Contains_Duplicate.cpp)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](./Code/219_Contains_Duplicate_II.cpp)|Easy|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./Code/228_Summary_Ranges.cpp)|Medium|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./Code/229_Majority_Element_II.cpp)|Medium|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](./Code/238_Product_of_Array_Except Self.cpp)|Medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./Code/268_Missing_Number.cpp)|Medium|
+|269|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./Code/283_Move_Zeroes.cpp)|Easy|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./Code/287_Find_the_Duplicate_Number.cpp)|Hard|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./Code/289_Game_of_Life.cpp)|Medium|
 
-
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./Code/414_Third_Maximum_Number.cpp)|Easy|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./Code/442_Find_All_Duplicates_in_an_Array.cpp)|Medium|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./Code/448_Find_All_Numbers_Disappeared_in_an_Array.cpp)|Easy|
 
 
 
