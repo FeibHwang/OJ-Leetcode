@@ -87,7 +87,6 @@ OJ-LeetCode
 |269|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./Code/283_Move_Zeroes.cpp)|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./Code/287_Find_the_Duplicate_Number.cpp)|Hard|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./Code/289_Game_of_Life.cpp)|Medium|
-
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./Code/414_Third_Maximum_Number.cpp)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./Code/442_Find_All_Duplicates_in_an_Array.cpp)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./Code/448_Find_All_Numbers_Disappeared_in_an_Array.cpp)|Easy|
