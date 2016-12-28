@@ -96,6 +96,7 @@ OJ-LeetCode
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./Code/328_Odd_Even_Linked_List.cpp)|Medium|
 
 
+
 ###Math
 
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
@@ -233,13 +234,18 @@ OJ-LeetCode
 
 
 
-###Devide and Conquer
+###Divide and Conquer
 
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./Code/4_Median_of_Two_Sorted_Arrays.cpp)|Hard|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./Code/23_Merge_k_Sorted_Lists.cpp)|Hard|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./Code/53_Maximum_Subarray.cpp)|Medium|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./Code/169_Majority_Element.cpp)|Easy|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./Code/215_Kth_Largest_Element_in_an_Array.cpp)|Medium|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C++](./Code/240_Search_a_2D_Matrix_II.cpp)|Medium|
 
 
 ###Binary Search
@@ -248,7 +254,29 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./Code/4_Median_of_Two_Sorted_Arrays.cpp)|Hard|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./Code/29_Divide_Two_Integers.cpp)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./Code/33_Search_in_Rotated_Sorted_Array.cpp)|Hard|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./Code/33_Search_for_a_Range.cpp)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./Code/35_Search_Insert_Position.cpp)|Medium|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./Code/69_Sqrt(x).cpp)|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](./Code/74_Search_a_2D_Matrix.cpp)|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./Code/153_Find_Minimum_in_Rotated_Sorted_Array.cpp)|Medium|
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./Code/154_Find_Minimum_in_Rotated_Sorted_Array_II.cpp)|Hard|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./Code/162_Find_Peak_Element.cpp)|Medium|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./Code/167_Two_Sum_II_Input_array_is_sorted.cpp)|Medium|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./Code/209_Minimum_Size_Subarray_Sum.cpp)|Medium|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./Code/222_Count_Complete_Tree_Nodes.cpp)|Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./Code/230_Kth_Smallest_Element_in_a_BST.cpp)|Medium|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C++](./Code/240_Search_a_2D_Matrix_II.cpp)|Medium|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii/) | [C++](./Code/275_H-Index_II.cpp)|Medium|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [C++](./Code/278_First_Bad_Version.cpp)|Easy|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./Code/287_Find_the_Duplicate_Number.cpp)|Hard|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](./Code/300_Longest_Increasing_Subsequence.cpp)|Medium|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./Code/349_Intersection_of_Two_Arrays.cpp)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./Code/350_Intersection_of_Two_Arrays_II.cpp)|Easy|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./Code/367_Valid_Perfect_Square.cpp)|Medium|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C++](./Code/374_Guess_Number_Higher_or_Lower.cpp)|Easy|
 
 
 ###Dynamic Programming
@@ -257,7 +285,31 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](./Code/32_Longest_Valid_Parentheses.cpp)|Hard|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./Code/53_Maximum_Subarray.cpp)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](./Code/62_Unique_Paths.cpp)|Medium|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](./Code/63_Unique_Paths_II.cpp)|Medium|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](./Code/64_Minimum_Path_Sum.cpp)|Medium|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./Code/70_Climbing_Stairs.cpp)|Easy|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [C++](./Code/91_Decode_Ways.cpp)|Medium|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [C++](./Code/96_Unique_Binary_Search_Trees.cpp)|Medium|
+|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [C++](./Code/97_Interleaving_String.cpp)|Hard|
+|120|[Triangle](https://leetcode.com/problems/triangle/) | [C++](./Code/120_Triangle.cpp)|Medium|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./Code/121_Best_Time_to_Buy_and_Sell_Stock.cpp)|Easy|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./Code/152_Maximum_Product_Subarray.cpp)|Medium|
+|198|[House Robber](https://leetcode.com/problems/house-robber/) | [C++](./Code/98_House_Robber.cpp)|Easy|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | [C++](./Code/221_Maximal_Square.cpp)|Medium|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [C++](./Code/264_Ugly_Number_II.cpp)|Medium|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./Code/279_Perfect_Squares.cpp)|Medium|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](./Code/300_Longest_Increasing_Subsequence.cpp)|Medium|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](./Code/303_Range_Sum_Query-Immutable.cpp)|Easy|
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./Code/304_Range_Sum_Query_2D-Immutable.cpp)|Medium|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./Code/322_Coin Change.cpp)|Medium|
+|343|[Integer Break](https://leetcode.com/problems/integer-break/) | [C++](./Code/343_Integer_Break.cpp)|Medium|
+|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./Code/357_Count_Numbers_with_Unique_Digits.cpp)|Medium|
+|368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [C++](./Code/368_Largest_Divisible_Subset.cpp)|Medium|
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](./Code/376_Wiggle_Subsequence.cpp)|Medium|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./Code/413_Arithmetic_Slices.cpp)|Medium|
 
 
 ###Backtracking
@@ -266,7 +318,11 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./Code/17_Letter_Combinations_of_a_Phone_Number.cpp)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./Code/39_Combination_Sum.cpp)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/) | [C++](./Code/78_Subsets.cpp)|Medium|
+|90|[Subsets_II](https://leetcode.com/problems/subsets-ii/) | [C++](./Code/90_Subsets_II.cpp)|Medium|
+|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./Code/357_Count_Numbers_with_Unique_Digits.cpp)|Medium|
 
 
 ###Stack
@@ -275,8 +331,19 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./Code/20_Valid_Parentheses.cpp)|Easy|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./Code/94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
 
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](./Code/103_Binary_Tree_Zigzag_Level_Order_Traversal.cpp)|Medium|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./Code/144_Binary_Tree_Preorder_Traversal.cpp)|Medium|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./Code/145_Binary_Tree_Postorder_Traversal.cpp)|Hard|
+
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](./Code/150_Evaluate_Reverse_Polish_Notation.cpp)|Medium|
+
+|155|[Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./Code/155_Min_Stack.cpp)|Easy|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./Code/173_Binary_Search_Tree_Iterator.cpp)|Medium|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./Code/232_Implement_Queue_using_Stacks.cpp)|Easy|
+|456|[132 Pattern](https://leetcode.com/problems/132-pattern/) | [C++](./Code/132_Pattern.cpp)|Medium|
 
 ###Heap
 
@@ -284,8 +351,13 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
-
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./Code/23_Merge_k_Sorted_Lists.cpp)|Hard|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./Code/215_Kth_Largest_Element_in_an_Array.cpp)|Medium|
+|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./Code/239_Sliding_Window_Maximum.cpp)|Hard|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [C++](./Code/264_Ugly_Number_II.cpp)|Medium|
+|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [C++](./Code/313_Super_Ugly_Number.cpp)|Medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./Code/347_Top_K_Frequent_Elements.cpp)|Medium|
+|373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [C++](./Code/373_Find_K_Pairs_with_Smallest_Sums.cpp)|Medium|
 
 ###Greedy
 
@@ -293,8 +365,8 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
-
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./Code/122_Best_Time_to_Buy_and_Sell_Stock_II.cpp)|Medium|
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](./Code/376_Wiggle_Subsequence.cpp)|Medium|
 
 ###Sort
 
@@ -302,8 +374,14 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
-
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./Code/75_Sort_Colors.cpp)|Medium|
+|147|[Insertion Sort List](https://leetcode.com/problems/two-sum/) | [C++](./Code/147_Insertion_Sort_List.cpp)|Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/) | [C++](./Code/148_Sort_List.cpp)|Medium|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./Code/179_Largest_Number.cpp)|Medium|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./Code/242_Valid_Anagram.cpp)|Easy|
+|274|[H-Index](https://leetcode.com/problems/h-index/) | [C++](./Code/274_H-Index.cpp)|Medium|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./Code/349_Intersection_of_Two_Arrays.cpp)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./Code/350_Intersection_of_Two_Arrays_II.cpp)|Easy|
 
 ###Bit Manipulation
 
@@ -311,7 +389,40 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/) | [C++](./Code/78_Subsets.cpp)|Medium|
+|136|[Single Number](https://leetcode.com/problems/single-number/) | [C++](./Code/136_Single_Number.cpp)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./Code/169_Majority_Element.cpp)|Easy|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [C++](./Code/187_Repeated_DNA_Sequences.cpp)|Medium|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./Code/231_Power_of_Two.cpp)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./Code/268_Missing_Number.cpp)|Medium|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./Code/389_Find_the_Difference.cpp)|Easy|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ###Tree
@@ -320,7 +431,47 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ###Depth-first Search
