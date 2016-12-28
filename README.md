@@ -8,6 +8,7 @@ OJ-LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./Code/3_Longest_Substring_Without_Repeating_Characters.cpp)|Easy|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./Code/11_Container_With_Most_Water.cpp)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./Code/16_3Sum_Closest.cpp)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./Code/19_Remove_Nth_Node_From_End_of_List.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Code/26_Remove_Duplicates_from_Sorted_Array.cpp)|Easy|
@@ -149,6 +150,7 @@ OJ-LeetCode
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./Code/4_Median_of_Two_Sorted_Arrays.cpp)|Hard|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./Code/11_Container_With_Most_Water.cpp)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./Code/16_3Sum_Closest.cpp)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Code/26_Remove_Duplicates_from_Sorted_Array.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./Code/27_Remove_Element.cpp)|Easy|
@@ -156,6 +158,7 @@ OJ-LeetCode
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./Code/33_Search_for_a_Range.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./Code/35_Search_Insert_Position.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./Code/39_Combination_Sum.cpp)|Medium|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](./Code/41_First_Missing_Positive.cpp)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./Code/53_Maximum_Subarray.cpp)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./Code/54_Spiral_Matrix.cpp)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](./Code/62_Unique_Paths.cpp)|Medium|
