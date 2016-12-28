@@ -16,7 +16,32 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./Code/3_Longest_Substring_Without_Repeating_Characters.cpp)|Easy|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./Code/36_Valid_Sudoku.cpp)|Easy|
+|49|[Group Anagrams](https://leetcode.com/problems/anagrams/) | [C++](./Code/49_Group_Anagrams.cpp)|Medium|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./Code/76_Minimum_Window_Substring.cpp)|Hard|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./Code/94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
+|136|[Single Number](https://leetcode.com/problems/single-number/) | [C++](./Code/136_Single_Number.cpp)|Easy|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./Code/138_Copy_List_with_Random_Pointer.cpp)|Hard|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [C++](./Code/149_Max_Points_on_a_Line.cpp)|Hard|
+|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./Code/166_Fraction_to_Recurring_Decimal.cpp)|Medium|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [C++](./Code/187_Repeated_DNA_Sequences.cpp)|Medium|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./Code/202_Happy_Number.cpp)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./Code/204_Count_Primes.cpp)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./Code/204_Isomorphic_Strings.cpp)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./Code/217_Contains_Duplicate.cpp)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](./Code/219_Contains_Duplicate_II.cpp)|Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./Code/242_Valid_Anagram.cpp)|Easy|
+|274|[H-Index](https://leetcode.com/problems/h-index/) | [C++](./Code/274_H-Index.cpp)|Medium|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./Code/294_Word_Pattern.cpp)|Easy|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./Code/299_Bulls_and_Cows.cpp)|Easy|
+|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [C++](./Code/336_Palindrome_Pairs.cpp)|Hard|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./Code/347_Top_K_Frequent_Elements.cpp)|Medium|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./Code/349_Intersection_of_Two_Arrays.cpp)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./Code/350_Intersection_of_Two_Arrays_II.cpp)|Easy|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./Code/389_Find_the_Difference.cpp)|Easy|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./Code/409_Longest_Palindrome.cpp)|Easy|
 
 
 ###Linked List
@@ -37,7 +62,7 @@ OJ-LeetCode
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
 
 
-###Two Pointers
+###Array
 
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
 
