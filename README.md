@@ -50,7 +50,30 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./Code/2_Add_Two_Numbers.cpp)|Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./Code/19_Remove_Nth_Node_From_End_of_List.cpp)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./Code/21_Merge_Two_Sorted_Lists.cpp)|Easy|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./Code/23_Merge_k_Sorted_Lists.cpp)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./Code/24_Swap_Nodes_in_Pairs.cpp)|Easy|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./Code/25_Reverse_Nodes_in_k-Group.cpp)|Hard|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./Code/61_Rotate_List.cpp)|Easy|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](./Code/82_Remove_Duplicates_from_Sorted_List_II.cpp)|Medium|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](./Code/83_Remove_Duplicates_from_Sorted_List.cpp)|Easy|
+|86|[Partition List](https://leetcode.com/problems/partition-list/) | [C++](./Code/86_Partition_List.cpp)|Medium|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./Code/92_Reverse_Linked_List_II.cpp)|Medium|
+|109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C++](./Code/109_Convert_Sorted_List_to_Binary_Search_Tree.cpp)|Medium|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./Code/138_Copy_List_with_Random_Pointer.cpp)|Hard|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./Code/141_Linked_List_Cycle.cpp)|Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./Code/142_Linked_List_Cycle_II.cpp)|Medium|
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./Code/143_Reorder_List.cpp)|Medium|
+|147|[Insertion Sort List](https://leetcode.com/problems/two-sum/) | [C++](./Code/147_Insertion_Sort_List.cpp)|Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/) | [C++](./Code/148_Sort_List.cpp)|Medium|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./Code/160_Intersection_of_Two_Linked_Lists.cpp)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./Code/203_Remove_Linked_List_Elements.cpp)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./Code/206_Reverse_Linked_List.cpp)|Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [C++](./Code/234_Palindrome_Linked_List.cpp)|Easy|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./Code/237_Delete_Node_in_a_Linked_List.cpp)|Easy|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./Code/328_Odd_Even_Linked_List.cpp)|Medium|
 
 
 ###Math
