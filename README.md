@@ -1,13 +1,33 @@
 OJ-LeetCode
 ========
 
-###Array
+###Two Pointers
 
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./Code/3_Longest_Substring_Without_Repeating_Characters.cpp)|Easy|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./Code/16_3Sum_Closest.cpp)|Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./Code/19_Remove_Nth_Node_From_End_of_List.cpp)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Code/26_Remove_Duplicates_from_Sorted_Array.cpp)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./Code/27_Remove_Element.cpp)|Easy|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./Code/61_Rotate_List.cpp)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./Code/75_Sort_Colors.cpp)|Medium|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./Code/76_Minimum_Window_Substring.cpp)|Hard|
+|86|[Partition List](https://leetcode.com/problems/partition-list/) | [C++](./Code/86_Partition_List.cpp)|Medium|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Code/125_Valid_Palindrome.cpp)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./Code/141_Linked_List_Cycle.cpp)|Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./Code/142_Linked_List_Cycle_II.cpp)|Medium|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./Code/167_Two_Sum_II_Input_array_is_sorted.cpp)|Medium|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./Code/209_Minimum_Size_Subarray_Sum.cpp)|Medium|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [C++](./Code/234_Palindrome_Linked_List.cpp)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./Code/283_Move_Zeroes.cpp)|Easy|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./Code/287_Find_the_Duplicate_Number.cpp)|Hard|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./Code/344_Reverse_String.cpp)|Easy|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./Code/345_Reverse_Vowels_of_a_String.cpp)|Easy|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./Code/349_Intersection_of_Two_Arrays.cpp)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./Code/350_Intersection_of_Two_Arrays_II.cpp)|Easy|
 
 
 ###Hash Table
