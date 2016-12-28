@@ -397,82 +397,43 @@ OJ-LeetCode
 |268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./Code/268_Missing_Number.cpp)|Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./Code/389_Find_the_Difference.cpp)|Easy|
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ###Tree
 
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Code/1_Two_Sum.cpp)|Easy|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./Code/94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [C++](./Code/96_Unique_Binary_Search_Trees.cpp)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./Code/98_Validate_Binary_Search_Tree.cpp)|Medium|
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./Code/99_Recover_Binary_Search_Tree.cpp)|Hard|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./Code/100_Same_Tree.cpp)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./Code/101_Symmetric_Tree.cpp)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./Code/102_Binary_Tree_Level_Order_Traversal.cpp)|Easy|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](./Code/103_Binary_Tree_Zigzag_Level_Order_Traversal.cpp)|Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./Code/104_Maximum_Depth_of_Binary_Tree.cpp)|Easy|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./Code/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp)|Medium|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](./Code/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp)|Medium|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [C++](./Code/107_Binary_Tree_Level_Order_Traversal_II.cpp)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./Code/108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp)|Medium|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](./Code/110_Balanced_Binary_Tree.cpp)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](./Code/111_Minimum_Depth_of_Binary_Tree.cpp)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./Code/112_Path_Sum.cpp)|Easy|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./Code/113_Path_Sum_II.cpp)|Medium|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./Code/114_Flatten_Binary_Tree_to_Linked_List.cpp)|Medium|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [C++](./Code/116_Populating_Next_Right_Pointers_in_Each_Node.cpp)|Medium|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [C++](./Code/129_Sum_Root_to_Leaf_Numbers.cpp)|Medium|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./Code/144_Binary_Tree_Preorder_Traversal.cpp)|Medium|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./Code/145_Binary_Tree_Postorder_Traversal.cpp)|Hard|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./Code/173_Binary_Search_Tree_Iterator.cpp)|Medium|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [C++](./Code/199_Binary_Tree_Right_Side_View.cpp)|Medium|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./Code/222_Count_Complete_Tree_Nodes.cpp)|Medium|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./Code/226_Invert_Binary_Tree.cpp)|Easy|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./Code/230_Kth_Smallest_Element_in_a_BST.cpp)|Medium|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./Code/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp)|Easy|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](./Code/236_Lowest_Common_Ancestor_of_a_Binary_Tree.cpp)|Medium|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [C++](./Code/257_Binary_Tree_Paths.cpp)|Easy|
+|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./Code/450_Delete_Node_in_a_BST.cpp)|Medium|
 
 ###Depth-first Search
 
@@ -480,8 +441,24 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
-
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./Code/98_Validate_Binary_Search_Tree.cpp)|Medium|
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./Code/99_Recover_Binary_Search_Tree.cpp)|Hard|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./Code/100_Same_Tree.cpp)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./Code/101_Symmetric_Tree.cpp)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./Code/104_Maximum_Depth_of_Binary_Tree.cpp)|Easy|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./Code/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp)|Medium|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](./Code/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp)|Medium|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./Code/108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp)|Medium|
+|109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C++](./Code/109_Convert_Sorted_List_to_Binary_Search_Tree.cpp)|Medium|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](./Code/110_Balanced_Binary_Tree.cpp)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](./Code/111_Minimum_Depth_of_Binary_Tree.cpp)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./Code/112_Path_Sum.cpp)|Easy|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./Code/113_Path_Sum_II.cpp)|Medium|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./Code/114_Flatten_Binary_Tree_to_Linked_List.cpp)|Medium|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [C++](./Code/116_Populating_Next_Right_Pointers_in_Each_Node.cpp)|Medium|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [C++](./Code/129_Sum_Root_to_Leaf_Numbers.cpp)|Medium|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [C++](./Code/199_Binary_Tree_Right_Side_View.cpp)|Medium|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [C++](./Code/257_Binary_Tree_Paths.cpp)|Easy|
 
 ###Breadth-first Search
 
@@ -489,7 +466,13 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./Code/101_Symmetric_Tree.cpp)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./Code/102_Binary_Tree_Level_Order_Traversal.cpp)|Easy|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](./Code/103_Binary_Tree_Zigzag_Level_Order_Traversal.cpp)|Medium|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [C++](./Code/107_Binary_Tree_Level_Order_Traversal_II.cpp)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](./Code/111_Minimum_Depth_of_Binary_Tree.cpp)|Easy|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [C++](./Code/199_Binary_Tree_Right_Side_View.cpp)|Medium|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./Code/279_Perfect_Squares.cpp)|Medium|
 
 
 ###Union Find
@@ -498,8 +481,6 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
-
 
 ###Gragh
 
@@ -507,7 +488,6 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
 
 
 ###Design
@@ -516,8 +496,9 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
-
+|155|[Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./Code/155_Min_Stack.cpp)|Easy|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./Code/173_Binary_Search_Tree_Iterator.cpp)|Medium|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./Code/232_Implement_Queue_using_Stacks.cpp)|Easy|
 
 ###Topological Sort
 
@@ -525,7 +506,8 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+
+
 
 
 ###Trie
@@ -534,7 +516,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [C++](./Code/336_Palindrome_Pairs.cpp)|Hard|
 
 
 ###Binary Indexed Tree
@@ -543,7 +525,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+
 
 
 ###Segment Tree
@@ -552,7 +534,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+
 
 
 ###Binary Search Tree
@@ -561,7 +543,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+
 
 
 ###Recursion
@@ -570,7 +552,10 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+
+
+
+
 
 
 ###Brainteaser
@@ -579,7 +564,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [C++](./Code/319_Bulb_Switcher.cpp)|Medium|
 
 
 ###Memoization
@@ -588,7 +573,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+
 
 
 ###Queue
@@ -597,7 +582,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+
 
 
 ###Reservoir Sampling
@@ -606,6 +591,6 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+
 
 
