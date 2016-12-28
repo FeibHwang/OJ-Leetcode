@@ -82,7 +82,42 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathInAMatrix/LongestIncreasingPathInAMatrix.cpp)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./Code/2_Add_Two_Numbers.cpp)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./Code/7_Reverse_Integer.cpp)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./Code/8_String_to_Integer_(atoi).cpp)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./Code/9_Palindrome_Number.cpp)|Easy|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./Code/12_Integer_to_Roman.cpp)|Medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./Code/13_Roman_to_Integer.cpp)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./Code/29_Divide_Two_Integers.cpp)|Medium|
+|65|[Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./Code/65_Valid_Number.cpp)|Hard|
+|66|[Plus One](https://leetcode.com/problems/plus-one/) | [C++](./Code/66_Plus_One.cpp)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/) | [C++](./Code/67_Add_Binary.cpp)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./Code/69_Sqrt(x).cpp)|Medium|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [C++](./Code/149_Max_Points_on_a_Line.cpp)|Hard|
+|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./Code/166_Fraction_to_Recurring_Decimal.cpp)|Medium|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./Code/168_Excel_Sheet_Column_Title.cpp)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./Code/171_Excel_Sheet_Column_Number.cpp)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./Code/202_Happy_Number.cpp)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./Code/204_Count_Primes.cpp)|Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./Code/231_Power_of_Two.cpp)|Easy|
+|233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | [C++](./Code/233_Number_of_Digit_One.cpp)|Hard|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/) | [C++](./Code/258_Add_Digits.cpp)|Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [C++](./Code/263_Ugly_Number.cpp)|Easy|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [C++](./Code/264_Ugly_Number_II.cpp)|Medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./Code/268_Missing_Number.cpp)|Medium|
+|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [C++](./Code/273_Integer_to_English_Words.cpp)|Hard|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./Code/279_Perfect_Squares.cpp)|Medium|
+|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [C++](./Code/313_Super_Ugly_Number.cpp)|Medium|
+|319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [C++](./Code/319_Bulb_Switcher.cpp)|Medium|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [C++](./Code/326_Power_of_Three.cpp)|Easy|
+|335|[Self Crossing](https://leetcode.com/problems/self-crossing/) | [C++](./Code/335_Self_Crossing.cpp)|Hard|
+|343|[Integer Break](https://leetcode.com/problems/integer-break/) | [C++](./Code/343_Integer_Break.cpp)|Medium|
+|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./Code/357_Count_Numbers_with_Unique_Digits.cpp)|Medium|
+|365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [C++](./Code/365_Water_and_Jug_Problem.cpp)|Medium|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./Code/367_Valid_Perfect_Square.cpp)|Medium|
+|368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [C++](./Code/368_Largest_Divisible_Subset.cpp)|Medium|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./Code/413_Arithmetic_Slices.cpp)|Medium|
+|423|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [C++](./Code/423_Reconstruct_Original_Digits_from_English.cpp)|Medium|
 
 
 ###Array
