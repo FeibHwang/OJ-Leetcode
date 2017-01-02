@@ -13,6 +13,7 @@ OJ-LeetCode
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./Code/19_Remove_Nth_Node_From_End_of_List.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Code/26_Remove_Duplicates_from_Sorted_Array.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./Code/27_Remove_Element.cpp)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./Code/28_Implement_strStr().cpp)|Easy|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./Code/61_Rotate_List.cpp)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./Code/75_Sort_Colors.cpp)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./Code/76_Minimum_Window_Substring.cpp)|Hard|
@@ -111,6 +112,7 @@ OJ-LeetCode
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./Code/12_Integer_to_Roman.cpp)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./Code/13_Roman_to_Integer.cpp)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./Code/29_Divide_Two_Integers.cpp)|Medium|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./Code/43_Multiply Strings.cpp)|Medium|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./Code/65_Valid_Number.cpp)|Hard|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [C++](./Code/66_Plus_One.cpp)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [C++](./Code/67_Add_Binary.cpp)|Easy|
@@ -215,7 +217,9 @@ OJ-LeetCode
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./Code/14_Longest_Common_Prefix.cpp)|Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./Code/17_Letter_Combinations_of_a_Phone_Number.cpp)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./Code/20_Valid_Parentheses.cpp)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./Code/28_Implement_strStr().cpp)|Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./Code/38_Count_and_Say.cpp)|Easy|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./Code/43_Multiply Strings.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/) | [C++](./Code/49_Group_Anagrams.cpp)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./Code/58_Length_of_Last_Word.cpp)|Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./Code/65_Valid_Number.cpp)|Hard|
@@ -223,6 +227,7 @@ OJ-LeetCode
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./Code/76_Minimum_Window_Substring.cpp)|Hard|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [C++](./Code/91_Decode_Ways.cpp)|Medium|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [C++](./Code/97_Interleaving_String.cpp)|Hard|
+|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [C++](./Code/115_Distinct_Subsequences.cpp)|Hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Code/125_Valid_Palindrome.cpp)|Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./Code/151_Reverse_Words_in_a_String.cpp)|Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./Code/165_Compare_Version_Numbers.cpp)|Easy|
@@ -297,6 +302,7 @@ OJ-LeetCode
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [C++](./Code/91_Decode_Ways.cpp)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [C++](./Code/96_Unique_Binary_Search_Trees.cpp)|Medium|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [C++](./Code/97_Interleaving_String.cpp)|Hard|
+|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [C++](./Code/115_Distinct_Subsequences.cpp)|Hard|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [C++](./Code/120_Triangle.cpp)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./Code/121_Best_Time_to_Buy_and_Sell_Stock.cpp)|Easy|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./Code/152_Maximum_Product_Subarray.cpp)|Medium|
@@ -313,6 +319,7 @@ OJ-LeetCode
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [C++](./Code/368_Largest_Divisible_Subset.cpp)|Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](./Code/376_Wiggle_Subsequence.cpp)|Medium|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./Code/413_Arithmetic_Slices.cpp)|Medium|
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./Code/416_Partition_Equal_Subset_Sum.cpp)|Medium|
 
 
 ###Backtracking
@@ -323,6 +330,7 @@ OJ-LeetCode
 |---| ----- | -------- | ---------- |
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./Code/17_Letter_Combinations_of_a_Phone_Number.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./Code/39_Combination_Sum.cpp)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/) | [C++](./Code/46_Permutations.cpp)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [C++](./Code/78_Subsets.cpp)|Medium|
 |90|[Subsets_II](https://leetcode.com/problems/subsets-ii/) | [C++](./Code/90_Subsets_II.cpp)|Medium|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./Code/357_Count_Numbers_with_Unique_Digits.cpp)|Medium|
