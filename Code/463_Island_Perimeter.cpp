@@ -14,7 +14,13 @@ Explanation: The perimeter is the 16 yellow stripes in the image below:
 
 
 /*
-not much to tell
+the usual connection is 2 + 2*square, if 4 square connect as a new square:
+_____
+|_|_|
+|_|_|
+the result will minus 2
+so counting the total number of square and the number of big square above
+final perimeter = 2 + 2* square - 2*big_square
 */
 
 class Solution {
