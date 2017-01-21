@@ -42,3 +42,45 @@ public:
         return res;
     }
 };
+
+
+
+/*
+dfs solution:
+construct dfs function
+left right indicates number of left/right Parentheses
+*/
+
+class Solution {
+public:
+    vector<string> generateParenthesis(int n) {
+        dfs(n,0,0);
+        return res;
+    }
+    
+    void dfs(int n, int left, int right)
+    {
+        if(left == n)
+        {
+            string s(hold);
+            s.append(n-right,')');
+            res.push_back(s);
+            return;
+        }
+        
+        hold.push_back('(');
+        dfs(n,left+1,right);
+        hold.pop_back();
+        
+        if(left > right)
+        {
+            hold.push_back(')');
+            dfs(n,left,right+1);
+            hold.pop_back();
+        }
+        
+    }
+    
+    vector<string> res;
+    string hold;
+};

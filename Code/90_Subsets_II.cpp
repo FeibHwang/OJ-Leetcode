@@ -66,7 +66,7 @@ public:
     }
 
     
-    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+    vector<vector<int>> subsetsWithDup01(vector<int>& nums) {
         seperate(nums);
         vector<vector<int>> ans = subsets(only_single);
         for(auto item: only_dublicate)
@@ -86,4 +86,36 @@ public:
         }
         return ans;
     }
+
+
+    /*
+DFS solution:
+each duplicate has multiple choice, 
+so need to avoid duplicate solution
+*/
+
+class Solution {
+public:
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        DFS(nums,0);
+        
+        return res;
+    }
+        
+    vector<vector<int>> res;
+    vector<int> path;
+        
+    void DFS(const vector<int>& nums, int start)
+    {
+        res.push_back(path);
+        for(int i = start; i < nums.size(); i++)
+        {
+            if(i!=start && nums[i] == nums[i-1]) continue;
+            path.push_back(nums[i]);
+            DFS(nums,i+1);
+            path.pop_back();
+        }
+    }   
+};
 };

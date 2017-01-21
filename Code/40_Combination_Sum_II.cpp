@@ -55,3 +55,45 @@ public:
 	 return result;
     }
 };
+
+
+
+/*
+dfs solution:
+compare with Combination Sum solution
+need some techniques to avoid duplicates
+*/
+
+class Solution {
+public:
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+	 sort(candidates.begin(),candidates.end());
+	 dfs(candidates,target,0);
+	 return res;
+}
+
+    vector<vector<int>> res;
+    vector<int> hold;
+    
+    
+    void dfs(vector<int>& candidates, int target, int start)
+    {
+        if(target == 0)
+        {
+            res.push_back(hold);
+            return;
+        }
+        
+        int previous = -1;
+        for(int i = start; i<candidates.size(); ++i)
+        {
+            if(previous == candidates[i]) continue;
+            if(target < candidates[i]) return;
+            previous = candidates[i];
+            // avoid using same value from last loop
+            hold.push_back(candidates[i]);
+            dfs(candidates,target-candidates[i],i+1);
+            hold.pop_back();
+        }
+    }
+};

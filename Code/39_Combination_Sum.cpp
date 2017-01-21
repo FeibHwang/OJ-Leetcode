@@ -21,7 +21,7 @@ Then just recursively call function
 
 class Solution {
 public:
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+    vector<vector<int>> combinationSum01(vector<int>& candidates, int target) {
 	 vector<int> pos;
 	 for (int i = 0; i < candidates.size(); ++i)
 	 {
@@ -50,4 +50,45 @@ public:
 	 }
 	 return result;
  }
+
+
+
+
+
+/*
+dfs solution:
+any candidates that is smaller than target can be called
+recurrent:dfs(candidates,target-candidates[i],i);
+if change i to i+1 --> not allowed duplicates
+*/
+
+class Solution {
+public:
+
+vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+	 sort(candidates.begin(),candidates.end());
+	 dfs(candidates,target,0);
+	 return res;
+}
+
+    vector<vector<int>> res;
+    vector<int> hold;
+    
+    void dfs(vector<int>& candidates, int target, int start)
+    {
+        if(target == 0)
+        {
+            res.push_back(hold);
+            return;
+        }
+        
+        for(int i = start; i<candidates.size(); ++i)
+        {
+            if(target < candidates[i]) return;
+            hold.push_back(candidates[i]);
+            dfs(candidates,target-candidates[i],i);
+            hold.pop_back();
+        }
+    }
+};
 };

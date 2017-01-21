@@ -26,7 +26,7 @@ then add them with the final number
 
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
+    vector<vector<int>> subsets01(vector<int>& nums) {
         vector<vector<int>> result;
         vector<int> start = {};
         result.push_back(start);
@@ -46,5 +46,39 @@ public:
         }
         
         return result;
+    }
+};
+
+
+/*
+DSF solution:
+for each element,there are two option: choose or not choose
+*/
+
+class Solution {
+public:
+    vector<vector<int>> subsets(vector<int>& nums) {
+        if(nums.empty()) return res;
+        sort(nums.begin(),nums.end());
+        DSF(nums,0);
+        return res;
+    }
+    
+    vector<vector<int>> res;
+    vector<int> path;
+    
+    void DSF(vector<int>& nums, int depth)
+    {
+        if(depth == nums.size())
+        {
+            res.push_back(path);
+            return;
+        }
+        
+        DSF(nums,depth+1); //not choose
+        
+        path.push_back(nums[depth]);    //choose
+        DSF(nums,depth+1);
+        path.pop_back();
     }
 };

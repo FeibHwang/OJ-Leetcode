@@ -45,3 +45,40 @@ public:
         return result;
     }
 };
+
+
+
+
+/*
+dfs solution
+start indicates current position
+*/
+
+class Solution {
+public:
+    vector<string> letterCombinations(string digits) {
+        if(digits.empty()) return res;
+        dfs(digits,0);
+        return res;
+    }
+    
+    void dfs(string digits, int start)
+    {
+        if(start == digits.size())
+        {
+            res.push_back(hold);
+            return;
+        }
+            
+        for(int j = 0; j < key[digits[start]-'0'].size(); ++j)
+        {
+            hold.push_back(key[digits[start]-'0'][j]);
+            dfs(digits,start+1);
+            hold.pop_back();
+        }
+    }
+    
+    vector<string> key = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+    vector<string> res;
+    string hold;
+};
