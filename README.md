@@ -313,6 +313,7 @@ OJ-LeetCode
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./Code/154_Find_Minimum_in_Rotated_Sorted_Array_II.cpp)|Hard|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./Code/162_Find_Peak_Element.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./Code/167_Two_Sum_II_Input_array_is_sorted.cpp)|Medium|
+|174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./Code/174_Dungeon_Game.cpp)|Hard|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./Code/209_Minimum_Size_Subarray_Sum.cpp)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./Code/222_Count_Complete_Tree_Nodes.cpp)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./Code/230_Kth_Smallest_Element_in_a_BST.cpp)|Medium|
@@ -349,6 +350,7 @@ OJ-LeetCode
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [C++](./Code/120_Triangle.cpp)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./Code/121_Best_Time_to_Buy_and_Sell_Stock.cpp)|Easy|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./Code/152_Maximum_Product_Subarray.cpp)|Medium|
+|174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./Code/174_Dungeon_Game.cpp)|Hard|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [C++](./Code/98_House_Robber.cpp)|Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | [C++](./Code/221_Maximal_Square.cpp)|Medium|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [C++](./Code/264_Ugly_Number_II.cpp)|Medium|
@@ -547,6 +549,7 @@ OJ-LeetCode
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [C++](./Code/199_Binary_Tree_Right_Side_View.cpp)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./Code/200_Number_of_Islands.cpp)|Medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [C++](./Code/257_Binary_Tree_Paths.cpp)|Easy|
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./Code/329_Longest_Increasing_Path_in_a_Matrix.cpp)|Hard|
 
 ###Breadth-first Search
 
@@ -602,6 +605,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./Code/329_Longest_Increasing_Path_in_a_Matrix.cpp)|Hard|
 
 
 
@@ -672,6 +676,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./Code/329_Longest_Increasing_Path_in_a_Matrix.cpp)|Hard|
 
 
 
@@ -690,6 +695,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [C++](./Code/398_Random_Pick_Index.cpp)|Medium|
 
 
 
