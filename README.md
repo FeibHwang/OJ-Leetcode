@@ -52,6 +52,7 @@ OJ-LeetCode
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [C++](./Code/37_Sudoku_Solver.cpp)|Hard|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/) | [C++](./Code/49_Group_Anagrams.cpp)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./Code/76_Minimum_Window_Substring.cpp)|Hard|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/?tab=Description) | [C++](./Code/85_Maximal_Rectangle.cpp)|Hard|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./Code/94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [C++](./Code/136_Single_Number.cpp)|Easy|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./Code/138_Copy_List_with_Random_Pointer.cpp)|Hard|
@@ -210,6 +211,7 @@ OJ-LeetCode
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./Code/80_Remove_Duplicates_from_Sorted_Array_II.cpp)|Medium|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [C++](./Code/81_Search_in_Rotated_Sorted_Array_II.cpp)|Medium|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./Code/84_Largest_Rectangle_in_Histogram.cpp)|Hard|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/?tab=Description) | [C++](./Code/85_Maximal_Rectangle.cpp)|Hard|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./Code/88_Merge_Sorted_Array.cpp)|Easy|
 |90|[Subsets_II](https://leetcode.com/problems/subsets-ii/) | [C++](./Code/90_Subsets_II.cpp)|Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./Code/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp)|Medium|
@@ -219,6 +221,8 @@ OJ-LeetCode
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [C++](./Code/120_Triangle.cpp)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./Code/121_Best_Time_to_Buy_and_Sell_Stock.cpp)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./Code/122_Best_Time_to_Buy_and_Sell_Stock_II.cpp)|Medium|
+|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/?tab=Description) | [C++](./Code/123_Best_Time_to_Buy_and_Sell_Stock_III.cpp)|Hard|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/?tab=Description) | [C++](./Code/128_Longest_Consecutive_Sequence.cpp)|Hard|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./Code/152_Maximum_Product_Subarray.cpp)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./Code/153_Find_Minimum_in_Rotated_Sorted_Array.cpp)|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./Code/154_Find_Minimum_in_Rotated_Sorted_Array_II.cpp)|Hard|
@@ -270,8 +274,11 @@ OJ-LeetCode
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./Code/58_Length_of_Last_Word.cpp)|Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./Code/65_Valid_Number.cpp)|Hard|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [C++](./Code/67_Add_Binary.cpp)|Easy|
+|68|[Text Justification](https://leetcode.com/problems/text-justification/?tab=Description) | [C++](./Code/68_Text_Justification.cpp)|Hard|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/?tab=Description) | [C++](./Code/71_Simplify_Path.cpp)|Hard|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/) | [C++](./Code/72_Edit_Distance.cpp)|Hard|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./Code/76_Minimum_Window_Substring.cpp)|Hard|
+|87|[Scramble String](https://leetcode.com/problems/scramble-string/?tab=Description) | [C++](./Code/87_Scramble_String.cpp)|Hard|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [C++](./Code/91_Decode_Ways.cpp)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [C++](./Code/93_Restore_IP_Addresses.cpp)|Medium|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [C++](./Code/97_Interleaving_String.cpp)|Hard|
@@ -356,6 +363,8 @@ OJ-LeetCode
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](./Code/64_Minimum_Path_Sum.cpp)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./Code/70_Climbing_Stairs.cpp)|Easy|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/) | [C++](./Code/72_Edit_Distance.cpp)|Hard|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/?tab=Description) | [C++](./Code/85_Maximal_Rectangle.cpp)|Hard|
+|87|[Scramble String](https://leetcode.com/problems/scramble-string/?tab=Description) | [C++](./Code/87_Scramble_String.cpp)|Hard|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [C++](./Code/91_Decode_Ways.cpp)|Medium|
 |95|[Binary Tree Inorder Traversal II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [C++](./Code/94_Binary_Tree_Inorder_Traversal_II.cpp)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [C++](./Code/96_Unique_Binary_Search_Trees.cpp)|Medium|
@@ -363,7 +372,9 @@ OJ-LeetCode
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [C++](./Code/115_Distinct_Subsequences.cpp)|Hard|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [C++](./Code/120_Triangle.cpp)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./Code/121_Best_Time_to_Buy_and_Sell_Stock.cpp)|Easy|
-|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./Code/152_Maximum_Product_Subarray.cpp)|Medium|
+|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/?tab=Description) | [C++](./Code/123_Best_Time_to_Buy_and_Sell_Stock_III.cpp)|Hard|
+|139|[Word Break](https://leetcode.com/problems/word-break/?tab=Description) | [C++](./Code/152_Maximum_Product_Subarray.cpp)|Medium|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./Code/139_Word_Break.cpp)|Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./Code/174_Dungeon_Game.cpp)|Hard|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [C++](./Code/98_House_Robber.cpp)|Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | [C++](./Code/221_Maximal_Square.cpp)|Medium|
@@ -399,7 +410,10 @@ OJ-LeetCode
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [C++](./Code/40_Combination_Sum_II.cpp)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/) | [C++](./Code/46_Permutations.cpp)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/) | [C++](./Code/47_Permutations_II.cpp)|Medium|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/?tab=Description) | [C++](./Code/51_N_Queens.cpp)|Hard|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/?tab=Description) | [C++](./Code/52_N_Queens_II.cpp)|Hard|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./Code/60_Permutation_Sequence.cpp)|Medium|
+|77|[Combinations](https://leetcode.com/problems/combinations/?tab=Description) | [C++](./Code/77_Combinations.cpp)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [C++](./Code/78_Subsets.cpp)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/) | [C++](./Code/79_Word_Search.cpp)|Medium|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/) | [C++](./Code/89_Gray_Code.cpp)|Medium|
@@ -418,7 +432,9 @@ OJ-LeetCode
 |---| ----- | -------- | ---------- |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./Code/20_Valid_Parentheses.cpp)|Easy|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./Code/42_Trapping_Rain_Water.cpp)|Hard|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/?tab=Description) | [C++](./Code/71_Simplify_Path.cpp)|Hard|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./Code/84_Largest_Rectangle_in_Histogram.cpp)|Hard|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/?tab=Description) | [C++](./Code/85_Maximal_Rectangle.cpp)|Hard|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./Code/94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](./Code/103_Binary_Tree_Zigzag_Level_Order_Traversal.cpp)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./Code/144_Binary_Tree_Preorder_Traversal.cpp)|Medium|
@@ -456,6 +472,7 @@ OJ-LeetCode
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [C++](./Code/45_Jump_Game_II.cpp)|Hard|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./Code/55_Jump_Game.cpp)|Medium|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./Code/122_Best_Time_to_Buy_and_Sell_Stock_II.cpp)|Medium|
+|134|[Gas Station](https://leetcode.com/problems/gas-station/?tab=Description) | [C++](./Code/134_Gas_Station.cpp)|Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](./Code/376_Wiggle_Subsequence.cpp)|Medium|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./Code/406_Queue_Reconstruction_by_Height.cpp)|Medium|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [C++](./Code/452_Minimum_Number_of_Arrows_to_Burst_Balloons.cpp)|Medium|
@@ -589,6 +606,7 @@ OJ-LeetCode
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](./Code/103_Binary_Tree_Zigzag_Level_Order_Traversal.cpp)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [C++](./Code/107_Binary_Tree_Level_Order_Traversal_II.cpp)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](./Code/111_Minimum_Depth_of_Binary_Tree.cpp)|Easy|
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/?tab=Description) | [C++](./Code/127_Word_Ladder.cpp)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [C++](./Code/130_Surrounded_Regions.cpp)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/) | [C++](./Code/133_Clone_Graph.cpp)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [C++](./Code/199_Binary_Tree_Right_Side_View.cpp)|Medium|
@@ -602,6 +620,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/?tab=Description) | [C++](./Code/128_Longest_Consecutive_Sequence.cpp)|Hard|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [C++](./Code/130_Surrounded_Regions.cpp)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./Code/200_Number_of_Islands.cpp)|Medium|
 
@@ -620,6 +639,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/?tab=Description) | [C++](./Code/146_LRU_Cache.cpp)|Hard|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./Code/155_Min_Stack.cpp)|Easy|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./Code/173_Binary_Search_Tree_Iterator.cpp)|Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++](./Code/208_Implement_Trie_(Prefix_Tree).cpp)|Medium|
