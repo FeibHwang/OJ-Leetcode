@@ -16,16 +16,11 @@ search(".ad") -> true
 search("b..") -> true
 Note:
 You may assume that all words are consist of lowercase letters a-z.
-
-click to show hint.
-
-You should be familiar with how a Trie works. If not, please work on this problem: Implement Trie (Prefix Tree) first.
 */
 
 /*
-construct a trie
+Typical Trie construction and method
 */
-
 
 class WordDictionary {
 public:
