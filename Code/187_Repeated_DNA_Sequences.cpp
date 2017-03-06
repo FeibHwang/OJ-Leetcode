@@ -12,7 +12,8 @@ Return:
 */
 
 /*
-using hash table to record each length-10 sequence
+naive solution: put every length-10 substring into the hash map for checking
+
 */
 
 class Solution {
@@ -34,5 +35,21 @@ public:
         }
         
         return result;
+    }
+
+    vector<string> findRepeatedDnaSequences01(string s) {
+        if(s.length()<11) return {};
+        unordered_set<string> mp;
+        unordered_set<string> rec;
+
+        for(int i = 0; i <= s.length()-10; ++i)
+        {
+            string check = s.substr(i,10);
+            if(mp.find(check)==mp.end()) mp.insert(check);
+            else rec.insert(check);
+        }
+
+        
+        return vector<string>(rec.begin(),rec.end());
     }
 };

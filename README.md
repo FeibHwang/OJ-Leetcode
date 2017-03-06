@@ -140,6 +140,7 @@ OJ-LeetCode
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./Code/166_Fraction_to_Recurring_Decimal.cpp)|Medium|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./Code/168_Excel_Sheet_Column_Title.cpp)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./Code/171_Excel_Sheet_Column_Number.cpp)|Easy|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/?tab=Description) | [C++](./Code/172_Factorial_Trailing_Zeroes.cpp)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./Code/202_Happy_Number.cpp)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./Code/204_Count_Primes.cpp)|Easy|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [C++](./Code/223_Rectangle_Area.cpp)|Easy|
@@ -286,6 +287,7 @@ OJ-LeetCode
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Code/125_Valid_Palindrome.cpp)|Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./Code/151_Reverse_Words_in_a_String.cpp)|Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./Code/165_Compare_Version_Numbers.cpp)|Easy|
+|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/?tab=Description) | [C++](./Code/186_Reverse_Words_in_a_String_II.cpp)|Medium|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [C++](./Code/273_Integer_to_English_Words.cpp)|Hard|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [C++](./Code/336_Palindrome_Pairs.cpp)|Hard|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./Code/344_Reverse_String.cpp)|Easy|
@@ -550,6 +552,7 @@ OJ-LeetCode
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [C++](./Code/129_Sum_Root_to_Leaf_Numbers.cpp)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./Code/144_Binary_Tree_Preorder_Traversal.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./Code/145_Binary_Tree_Postorder_Traversal.cpp)|Hard|
+|156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/?tab=Description) | [C++](./Code/156_Binary_Tree_Upside_Down.cpp)|Medium|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./Code/173_Binary_Search_Tree_Iterator.cpp)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [C++](./Code/199_Binary_Tree_Right_Side_View.cpp)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./Code/222_Count_Complete_Tree_Nodes.cpp)|Medium|
