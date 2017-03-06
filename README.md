@@ -67,6 +67,7 @@ OJ-LeetCode
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./Code/242_Valid_Anagram.cpp)|Easy|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/?tab=Description) | [C++](./Code/244_Shortest_Word_Distance_II.cpp)|Medium|
 |249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/?tab=Description) | [C++](./Code/249_Group_Shifted_Strings.cpp)|Medium|
+|266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/?tab=Description) | [C++](./Code/266_Palindrome_Permutation.cpp)|Easy|
 |274|[H-Index](https://leetcode.com/problems/h-index/) | [C++](./Code/274_H-Index.cpp)|Medium|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./Code/294_Word_Pattern.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./Code/299_Bulls_and_Cows.cpp)|Easy|
@@ -244,7 +245,8 @@ OJ-LeetCode
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/?tab=Description) | [C++](./Code/243_Shortest_Word_Distance.cpp)|Easy|
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/?tab=Description) | [C++](./Code/245_Shortest_Word_Distance_III.cpp)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./Code/268_Missing_Number.cpp)|Medium|
-|269|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./Code/283_Move_Zeroes.cpp)|Easy|
+|280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/?tab=Description) | [C++](./Code/280_Wiggle_Sort.cpp)|Medium|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./Code/283_Move_Zeroes.cpp)|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./Code/287_Find_the_Duplicate_Number.cpp)|Hard|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./Code/289_Game_of_Life.cpp)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./Code/380_Insert_Delete_GetRandom_O(1).cpp)|Medium|
@@ -295,7 +297,9 @@ OJ-LeetCode
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./Code/165_Compare_Version_Numbers.cpp)|Easy|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/?tab=Description) | [C++](./Code/186_Reverse_Words_in_a_String_II.cpp)|Medium|
 |249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/?tab=Description) | [C++](./Code/249_Group_Shifted_Strings.cpp)|Medium|
+|271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/?tab=Description) | [C++](./Code/271_Encode_and_Decode_Strings.cpp)|Medium|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [C++](./Code/273_Integer_to_English_Words.cpp)|Hard|
+|293|[Flip Game](https://leetcode.com/problems/flip-game/?tab=Description) | [C++](./Code/293_Flip_Game.cpp)|Easy|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [C++](./Code/336_Palindrome_Pairs.cpp)|Hard|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./Code/344_Reverse_String.cpp)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./Code/345_Reverse_Vowels_of_a_String.cpp)|Easy|
@@ -347,6 +351,7 @@ OJ-LeetCode
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./Code/222_Count_Complete_Tree_Nodes.cpp)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./Code/230_Kth_Smallest_Element_in_a_BST.cpp)|Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C++](./Code/240_Search_a_2D_Matrix_II.cpp)|Medium|
+|270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/?tab=Description) | [C++](./Code/270_Closest_Binary_Search_Tree_Value.cpp)|Easy|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/) | [C++](./Code/275_H-Index_II.cpp)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [C++](./Code/278_First_Bad_Version.cpp)|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./Code/287_Find_the_Duplicate_Number.cpp)|Hard|
@@ -387,7 +392,10 @@ OJ-LeetCode
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./Code/174_Dungeon_Game.cpp)|Hard|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [C++](./Code/98_House_Robber.cpp)|Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | [C++](./Code/221_Maximal_Square.cpp)|Medium|
+|256|[Paint House](https://leetcode.com/problems/paint-house/?tab=Description) | [C++](./Code/256_Paint_House.cpp)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [C++](./Code/264_Ugly_Number_II.cpp)|Medium|
+|265|[Paint House II](https://leetcode.com/problems/paint-house-ii/?tab=Description) | [C++](./Code/265_Paint_House_II.cpp)|Hard|
+|276|[Paint Fence](https://leetcode.com/problems/paint-fence/?tab=Description) | [C++](./Code/276_Paint_Fence.cpp)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./Code/279_Perfect_Squares.cpp)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](./Code/300_Longest_Increasing_Subsequence.cpp)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](./Code/303_Range_Sum_Query-Immutable.cpp)|Easy|
@@ -454,6 +462,7 @@ OJ-LeetCode
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./Code/173_Binary_Search_Tree_Iterator.cpp)|Medium|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C++](./Code/225_Implement_Stack_using_Queues.cpp)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./Code/232_Implement_Queue_using_Stacks.cpp)|Easy|
+|272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/?tab=Description) | [C++](./Code/272_Closest_Binary_Search_Tree_Value_II.cpp)|Hard|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [C++](./Code/341_Flatten_Nested_List_Iterator.cpp)|Medium|
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/) | [C++](./Code/132_Pattern.cpp)|Medium|
 
@@ -500,7 +509,9 @@ OJ-LeetCode
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [C++](./Code/164_Maximum_Gap.cpp)|Hard|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./Code/179_Largest_Number.cpp)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./Code/242_Valid_Anagram.cpp)|Easy|
+|252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/?tab=Description) | [C++](./Code/252_Meeting_Rooms.cpp)|Easy|
 |274|[H-Index](https://leetcode.com/problems/h-index/) | [C++](./Code/274_H-Index.cpp)|Medium|
+|280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/?tab=Description) | [C++](./Code/280_Wiggle_Sort.cpp)|Medium|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./Code/349_Intersection_of_Two_Arrays.cpp)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./Code/350_Intersection_of_Two_Arrays_II.cpp)|Easy|
 
@@ -570,6 +581,11 @@ OJ-LeetCode
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./Code/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](./Code/236_Lowest_Common_Ancestor_of_a_Binary_Tree.cpp)|Medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [C++](./Code/257_Binary_Tree_Paths.cpp)|Easy|
+|270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/?tab=Description) | [C++](./Code/270_Closest_Binary_Search_Tree_Value.cpp)|Easy|
+|272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/?tab=Description) | [C++](./Code/272_Closest_Binary_Search_Tree_Value_II.cpp)|Hard|
+|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/?tab=Description) | [C++](./Code/285_Inorder_Successor_in_BST.cpp)|Medium|
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/?tab=Description) | [C++](./Code/297_Serialize_and_Deserialize_Binary_Tree.cpp)|Hard|
+|298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/?tab=Description) | [C++](./Code/298_Binary_Tree_Longest_Consecutive_Sequence.cpp)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](./Code/404_Sum_of_Left_Leaves.cpp)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [C++](./Code/437_Path_Sum_III.cpp)|Easy|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./Code/450_Delete_Node_in_a_BST.cpp)|Medium|
@@ -604,6 +620,7 @@ OJ-LeetCode
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/?tab=Description) | [C++](./Code/207_Course_Schedule.cpp)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/?tab=Description) | [C++](./Code/210_Course_Schedule_II.cpp)|Medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [C++](./Code/257_Binary_Tree_Paths.cpp)|Easy|
+|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/?tab=Description) | [C++](./Code/261_Graph_Valid_Tree.cpp)|Medium|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./Code/329_Longest_Increasing_Path_in_a_Matrix.cpp)|Hard|
 |472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [C++](./Code/472_Concatenated_Words.cpp)|Hard|
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) | [C++](./Code/491_Increasing_Subsequences.cpp)|Medium|
@@ -627,7 +644,9 @@ OJ-LeetCode
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./Code/200_Number_of_Islands.cpp)|Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/?tab=Description) | [C++](./Code/207_Course_Schedule.cpp)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/?tab=Description) | [C++](./Code/210_Course_Schedule_II.cpp)|Medium|
+|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/?tab=Description) | [C++](./Code/261_Graph_Valid_Tree.cpp)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./Code/279_Perfect_Squares.cpp)|Medium|
+|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/?tab=Description) | [C++](./Code/286_Walls_and_Gates.cpp)|Medium|
 
 
 ###Union Find
@@ -639,6 +658,7 @@ OJ-LeetCode
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/?tab=Description) | [C++](./Code/128_Longest_Consecutive_Sequence.cpp)|Hard|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [C++](./Code/130_Surrounded_Regions.cpp)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./Code/200_Number_of_Islands.cpp)|Medium|
+|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/?tab=Description) | [C++](./Code/261_Graph_Valid_Tree.cpp)|Medium|
 
 ###Gragh
 
@@ -649,6 +669,7 @@ OJ-LeetCode
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/) | [C++](./Code/133_Clone_Graph.cpp)|Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/?tab=Description) | [C++](./Code/207_Course_Schedule.cpp)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/?tab=Description) | [C++](./Code/210_Course_Schedule_II.cpp)|Medium|
+|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/?tab=Description) | [C++](./Code/261_Graph_Valid_Tree.cpp)|Medium|
 
 
 ###Design
@@ -665,7 +686,9 @@ OJ-LeetCode
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C++](./Code/225_Implement_Stack_using_Queues.cpp)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./Code/232_Implement_Queue_using_Stacks.cpp)|Easy|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/?tab=Description) | [C++](./Code/244_Shortest_Word_Distance_II.cpp)|Medium|
+|251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/?tab=Description) | [C++](./Code/251_Flatten_2D_Vector.cpp)|Medium|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [C++](./Code/284_Peeking_Iterator.cpp)|Medium|
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/?tab=Description) | [C++](./Code/297_Serialize_and_Deserialize_Binary_Tree.cpp)|Hard|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [C++](./Code/341_Flatten_Nested_List_Iterator.cpp)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./Code/380_Insert_Delete_GetRandom_O(1).cpp)|Medium|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [C++](./Code/381_Insert_Delete_GetRandom_O(1)_Duplicates_allowed.cpp)|Hard|
@@ -745,6 +768,7 @@ OJ-LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|292|[Nim Game](https://leetcode.com/problems/nim-game/?tab=Description) | [C++](./Code/292_Nim_Game.cpp)|Easy|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [C++](./Code/319_Bulb_Switcher.cpp)|Medium|
 
 
