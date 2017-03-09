@@ -87,6 +87,9 @@ OJ-LeetCode
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./Code/451_Sort_Characters_By_Frequency.cpp)|Medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./Code/454_4Sum_II.cpp)|Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./Code/463_Island_Perimeter.cpp)|Easy|
+|500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/?tab=Description) | [C++](./Code/500_Keyboard_Row.cpp)|Easy|
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/?tab=Description) | [C++](./Code/506_Relative_Ranks.cpp)|Easy|
+|508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/?tab=Description) | [C++](./Code/508_Most_Frequent_Subtree_Sum.cpp)|Medium|
 
 
 ###Linked List
@@ -316,6 +319,9 @@ OJ-LeetCode
 |422|[Valid Word Square](https://leetcode.com/problems/valid-word-square/?tab=Description) | [C++](./Code/422_Valid_Word_Square.cpp)|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [C++](./Code/434_Number_of_Segments_in_a_String.cpp)|Easy|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [C++](./Code/459_Repeated_Substring_Pattern.cpp)|Easy|
+|468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/?tab=Description) | [C++](./Code/468_Validate_IP_Address.cpp)|Medium|
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/?tab=Description) | [C++](./Code/482_License_Key_Formatting.cpp)|Medium|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/?tab=Description) | [C++](./Code/520_Detect_Capital.cpp)|Easy|
 
 
 
@@ -374,6 +380,7 @@ OJ-LeetCode
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/?tab=Description) | [C++](./Code/410_Split_Array_Largest_Sum.cpp)|Hard|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [C++](./Code/441_Arranging_Coins.cpp)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./Code/454_4Sum_II.cpp)|Medium|
+|475|[Heaters](https://leetcode.com/problems/heaters/?tab=Description) | [C++](./Code/475_Heaters.cpp)|Easy|
 
 
 ###Dynamic Programming
@@ -423,6 +430,7 @@ OJ-LeetCode
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./Code/413_Arithmetic_Slices.cpp)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./Code/416_Partition_Equal_Subset_Sum.cpp)|Medium|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [C++](./Code/446_Arithmetic_Slices_II_Subsequence.cpp)|Hard|
+|467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/?tab=Description) | [C++](./Code/467_Unique_Substrings_in_Wraparound_String.cpp)|Medium|
 |472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [C++](./Code/472_Concatenated_Words.cpp)|Hard|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [C++](./Code/474_Ones_and_Zeroes.cpp)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [C++](./Code/494_Target_Sum.cpp)|Medium|
@@ -517,6 +525,7 @@ OJ-LeetCode
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/?tab=Description) | [C++](./Code/402_Remove_K_Digits.cpp)|Medium|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./Code/406_Queue_Reconstruction_by_Height.cpp)|Medium|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [C++](./Code/452_Minimum_Number_of_Arrows_to_Burst_Balloons.cpp)|Medium|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/?tab=Description) | [C++](./Code/455_Assign_Cookies.cpp)|Easy|
 
 ###Sort
 
@@ -565,6 +574,7 @@ OJ-LeetCode
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/?tab=Description) | [C++](./Code/405_Convert_a_Number_to_Hexadecimal.cpp)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./Code/461_Hamming_Distance.cpp)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./Code/476_Number_Complement.cpp)|Easy|
+|477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/?tab=Description) | [C++](./Code/477_Total_Hamming_Distance.cpp)|Medium|
 
 
 ###Tree
@@ -616,6 +626,10 @@ OJ-LeetCode
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](./Code/404_Sum_of_Left_Leaves.cpp)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [C++](./Code/437_Path_Sum_III.cpp)|Easy|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./Code/450_Delete_Node_in_a_BST.cpp)|Medium|
+|508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/?tab=Description) | [C++](./Code/508_Most_Frequent_Subtree_Sum.cpp)|Medium|
+|513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/?tab=Description) | [C++](./Code/513_Find_Bottom_Left_Tree_Value.cpp)|Medium|n
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/?tab=Description) | [C++](./Code/515_Find_Largest_Value_in_Each_Tree_Row.cpp)|Medium|
+
 
 ###Depth-first Search
 
@@ -657,6 +671,8 @@ OJ-LeetCode
 |472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [C++](./Code/472_Concatenated_Words.cpp)|Hard|
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) | [C++](./Code/491_Increasing_Subsequences.cpp)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [C++](./Code/494_Target_Sum.cpp)|Medium|
+|513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/?tab=Description) | [C++](./Code/513_Find_Bottom_Left_Tree_Value.cpp)|Medium|
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/?tab=Description) | [C++](./Code/515_Find_Largest_Value_in_Each_Tree_Row.cpp)|Medium|
 
 ###Breadth-first Search
 
@@ -681,6 +697,9 @@ OJ-LeetCode
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/?tab=Description) | [C++](./Code/286_Walls_and_Gates.cpp)|Medium|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/?tab=Description) | [C++](./Code/301_Remove_Invalid_Parentheses.cpp)|Hard|
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/?tab=Description) | [C++](./Code/323_Number_of_Connected_Components_in_an_Undirected_Graph.cpp)|Medium|
+|513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/?tab=Description) | [C++](./Code/513_Find_Bottom_Left_Tree_Value.cpp)|Medium|
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/?tab=Description) | [C++](./Code/515_Find_Largest_Value_in_Each_Tree_Row.cpp)|Medium|
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/?tab=Description) | [C++](./Code/530_Minimum_Absolute_Difference_in_BST.cpp)|Easy|
 
 
 ###Union Find
