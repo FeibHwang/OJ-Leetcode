@@ -36,6 +36,7 @@ OJ-LeetCode
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./Code/345_Reverse_Vowels_of_a_String.cpp)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./Code/349_Intersection_of_Two_Arrays.cpp)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./Code/350_Intersection_of_Two_Arrays_II.cpp)|Easy|
+|360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/?tab=Description) | [C++](./Code/360_Sort_Transformed_Array.cpp)|Medium|
 
 
 ###Hash Table
@@ -76,6 +77,7 @@ OJ-LeetCode
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./Code/347_Top_K_Frequent_Elements.cpp)|Medium|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./Code/349_Intersection_of_Two_Arrays.cpp)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./Code/350_Intersection_of_Two_Arrays_II.cpp)|Easy|
+|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/?tab=Description) | [C++](./Code/359_Logger_Rate_Limiter.cpp)|Easy|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./Code/380_Insert_Delete_GetRandom_O(1).cpp)|Medium|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [C++](./Code/381_Insert_Delete_GetRandom_O(1)_Duplicates_allowed.cpp)|Hard|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./Code/389_Find_the_Difference.cpp)|Easy|
@@ -163,10 +165,14 @@ OJ-LeetCode
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/) | [C++](./Code/335_Self_Crossing.cpp)|Hard|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/) | [C++](./Code/343_Integer_Break.cpp)|Medium|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./Code/357_Count_Numbers_with_Unique_Digits.cpp)|Medium|
+|360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/?tab=Description) | [C++](./Code/360_Sort_Transformed_Array.cpp)|Medium|
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [C++](./Code/365_Water_and_Jug_Problem.cpp)|Medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./Code/367_Valid_Perfect_Square.cpp)|Medium|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [C++](./Code/368_Largest_Divisible_Subset.cpp)|Medium|
+|372|[Super Pow](https://leetcode.com/problems/super-pow/?tab=Description) | [C++](./Code/372_Super_Pow.cpp)|Medium|
+|396|[Rotate Function](https://leetcode.com/problems/rotate-function/?tab=Description) | [C++](./Code/396_Rotate_Function.cpp)|Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [C++](./Code/397_Integer_Replacement.cpp)|Medium|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/?tab=Description) | [C++](./Code/400_Nth_Digit.cpp)|Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./Code/413_Arithmetic_Slices.cpp)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./Code/415_Add_Strings.cpp)|Easy|
 |423|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [C++](./Code/423_Reconstruct_Original_Digits_from_English.cpp)|Medium|
@@ -252,6 +258,7 @@ OJ-LeetCode
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./Code/289_Game_of_Life.cpp)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./Code/380_Insert_Delete_GetRandom_O(1).cpp)|Medium|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [C++](./Code/381_Insert_Delete_GetRandom_O(1)_Duplicates_allowed.cpp)|Hard|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/?tab=Description) | [C++](./Code/387_First_Unique_Character_in_a_String.cpp)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./Code/414_Third_Maximum_Number.cpp)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./Code/442_Find_All_Duplicates_in_an_Array.cpp)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./Code/448_Find_All_Numbers_Disappeared_in_an_Array.cpp)|Easy|
@@ -361,6 +368,7 @@ OJ-LeetCode
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./Code/350_Intersection_of_Two_Arrays_II.cpp)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./Code/367_Valid_Perfect_Square.cpp)|Medium|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C++](./Code/374_Guess_Number_Higher_or_Lower.cpp)|Easy|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/?tab=Description) | [C++](./Code/392_Is_Subsequence.cpp)|Medium|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [C++](./Code/441_Arranging_Coins.cpp)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./Code/454_4Sum_II.cpp)|Medium|
 
@@ -407,6 +415,7 @@ OJ-LeetCode
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [C++](./Code/368_Largest_Divisible_Subset.cpp)|Medium|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [C++](./Code/375_Guess_Number_Higher_or_Lower_II.cpp)|Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](./Code/376_Wiggle_Subsequence.cpp)|Medium|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/?tab=Description) | [C++](./Code/392_Is_Subsequence.cpp)|Medium|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./Code/413_Arithmetic_Slices.cpp)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./Code/416_Partition_Equal_Subset_Sum.cpp)|Medium|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [C++](./Code/446_Arithmetic_Slices_II_Subsequence.cpp)|Hard|
@@ -467,6 +476,7 @@ OJ-LeetCode
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/?tab=Description) | [C++](./Code/316_Remove_Duplicate_Letters.cpp)|Hard|
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/?tab=Description) | [C++](./Code/331_Verify_Preorder_Serialization_of_a_Binary_Tree.cpp)|Medium|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [C++](./Code/341_Flatten_Nested_List_Iterator.cpp)|Medium|
+|394|[Decode String](https://leetcode.com/problems/decode-string/?tab=Description) | [C++](./Code/394_Decode_String.cpp)|Medium|
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/) | [C++](./Code/132_Pattern.cpp)|Medium|
 
 ###Heap
@@ -497,6 +507,7 @@ OJ-LeetCode
 |134|[Gas Station](https://leetcode.com/problems/gas-station/?tab=Description) | [C++](./Code/134_Gas_Station.cpp)|Medium|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/?tab=Description) | [C++](./Code/316_Remove_Duplicate_Letters.cpp)|Hard|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](./Code/376_Wiggle_Subsequence.cpp)|Medium|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/?tab=Description) | [C++](./Code/392_Is_Subsequence.cpp)|Medium|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./Code/406_Queue_Reconstruction_by_Height.cpp)|Medium|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [C++](./Code/452_Minimum_Number_of_Arrows_to_Burst_Balloons.cpp)|Medium|
 
@@ -539,7 +550,9 @@ OJ-LeetCode
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [C++](./Code/318_Maximum_Product_of_Word_Lengths.cpp)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](./Code/338_Counting_Bits.cpp)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [C++](./Code/342_Power_of_Four.cpp)|Easy|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/?tab=Description) | [C++](./Code/371_Sum_of_Two_Integers.cpp)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./Code/389_Find_the_Difference.cpp)|Easy|
+|393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/?tab=Description) | [C++](./Code/393_UTF_8_Validation.cpp)|Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [C++](./Code/397_Integer_Replacement.cpp)|Medium|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./Code/461_Hamming_Distance.cpp)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./Code/476_Number_Complement.cpp)|Easy|
@@ -630,6 +643,8 @@ OJ-LeetCode
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/?tab=Description) | [C++](./Code/323_Number_of_Connected_Components_in_an_Undirected_Graph.cpp)|Medium|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./Code/329_Longest_Increasing_Path_in_a_Matrix.cpp)|Hard|
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/?tab=Description) | [C++](./Code/339_Nested_List_Weight_Sum.cpp)|Hard|
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/?tab=Description) | [C++](./Code/386_Lexicographical_Numbers.cpp)|Medium|
+|394|[Decode String](https://leetcode.com/problems/decode-string/?tab=Description) | [C++](./Code/394_Decode_String.cpp)|Medium|
 |472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [C++](./Code/472_Concatenated_Words.cpp)|Hard|
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) | [C++](./Code/491_Increasing_Subsequences.cpp)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [C++](./Code/494_Target_Sum.cpp)|Medium|
@@ -705,6 +720,8 @@ OJ-LeetCode
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [C++](./Code/341_Flatten_Nested_List_Iterator.cpp)|Medium|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/?tab=Description) | [C++](./Code/346_Moving_Average_from_Data_Stream.cpp)|Easy|
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/?tab=Description) | [C++](./Code/348_Design_Tic_Tac_Toe.cpp)|Medium|
+|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/?tab=Description) | [C++](./Code/359_Logger_Rate_Limiter.cpp)|Easy|
+|362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/?tab=Description) | [C++](./Code/362_Design_Hit_Counter.cpp)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./Code/380_Insert_Delete_GetRandom_O(1).cpp)|Medium|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [C++](./Code/381_Insert_Delete_GetRandom_O(1)_Duplicates_allowed.cpp)|Hard|
 
