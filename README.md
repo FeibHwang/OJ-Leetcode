@@ -312,6 +312,8 @@ OJ-LeetCode
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./Code/344_Reverse_String.cpp)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./Code/345_Reverse_Vowels_of_a_String.cpp)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](./Code/383_Ransom_Note.cpp)|Easy|
+|408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/?tab=Description) | [C++](./Code/408_Valid_Word_Abbreviation.cpp)|Easy|
+|422|[Valid Word Square](https://leetcode.com/problems/valid-word-square/?tab=Description) | [C++](./Code/422_Valid_Word_Square.cpp)|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [C++](./Code/434_Number_of_Segments_in_a_String.cpp)|Easy|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [C++](./Code/459_Repeated_Substring_Pattern.cpp)|Easy|
 
@@ -369,6 +371,7 @@ OJ-LeetCode
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./Code/367_Valid_Perfect_Square.cpp)|Medium|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C++](./Code/374_Guess_Number_Higher_or_Lower.cpp)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/?tab=Description) | [C++](./Code/392_Is_Subsequence.cpp)|Medium|
+|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/?tab=Description) | [C++](./Code/410_Split_Array_Largest_Sum.cpp)|Hard|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [C++](./Code/441_Arranging_Coins.cpp)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./Code/454_4Sum_II.cpp)|Medium|
 
@@ -416,6 +419,7 @@ OJ-LeetCode
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [C++](./Code/375_Guess_Number_Higher_or_Lower_II.cpp)|Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](./Code/376_Wiggle_Subsequence.cpp)|Medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/?tab=Description) | [C++](./Code/392_Is_Subsequence.cpp)|Medium|
+|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/?tab=Description) | [C++](./Code/410_Split_Array_Largest_Sum.cpp)|Hard|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./Code/413_Arithmetic_Slices.cpp)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./Code/416_Partition_Equal_Subset_Sum.cpp)|Medium|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [C++](./Code/446_Arithmetic_Slices_II_Subsequence.cpp)|Hard|
@@ -450,6 +454,7 @@ OJ-LeetCode
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/?tab=Description) | [C++](./Code/211_Add_and_Search_Word_Data_structure_design.cpp)|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/?tab=Description) | [C++](./Code/216_Combination_Sum_III.cpp)|Medium|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./Code/357_Count_Numbers_with_Unique_Digits.cpp)|Medium|
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch/?tab=Description) | [C++](./Code/401_Binary_Watch.cpp)|Easy|
 
 
 ###Stack
@@ -477,6 +482,7 @@ OJ-LeetCode
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/?tab=Description) | [C++](./Code/331_Verify_Preorder_Serialization_of_a_Binary_Tree.cpp)|Medium|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [C++](./Code/341_Flatten_Nested_List_Iterator.cpp)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/?tab=Description) | [C++](./Code/394_Decode_String.cpp)|Medium|
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/?tab=Description) | [C++](./Code/402_Remove_K_Digits.cpp)|Medium|
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/) | [C++](./Code/132_Pattern.cpp)|Medium|
 
 ###Heap
@@ -508,6 +514,7 @@ OJ-LeetCode
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/?tab=Description) | [C++](./Code/316_Remove_Duplicate_Letters.cpp)|Hard|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](./Code/376_Wiggle_Subsequence.cpp)|Medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/?tab=Description) | [C++](./Code/392_Is_Subsequence.cpp)|Medium|
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/?tab=Description) | [C++](./Code/402_Remove_K_Digits.cpp)|Medium|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./Code/406_Queue_Reconstruction_by_Height.cpp)|Medium|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [C++](./Code/452_Minimum_Number_of_Arrows_to_Burst_Balloons.cpp)|Medium|
 
@@ -554,6 +561,8 @@ OJ-LeetCode
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./Code/389_Find_the_Difference.cpp)|Easy|
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/?tab=Description) | [C++](./Code/393_UTF_8_Validation.cpp)|Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [C++](./Code/397_Integer_Replacement.cpp)|Medium|
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch/?tab=Description) | [C++](./Code/401_Binary_Watch.cpp)|Easy|
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/?tab=Description) | [C++](./Code/405_Convert_a_Number_to_Hexadecimal.cpp)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./Code/461_Hamming_Distance.cpp)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./Code/476_Number_Complement.cpp)|Easy|
 
